@@ -1,0 +1,7 @@
+#忽略所有.a结尾的文件
+*.[oa]
+!lib.a
+/TODO
+build/
+doc/#.txt
+
